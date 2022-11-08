@@ -1,0 +1,915 @@
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csprojAssemblyReference.cache
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.Manifest.cache
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.xml
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfoInputs.cache
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfo.cs
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.RazorTargetAssemblyInfo.cache
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.blazor.config
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.exe
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.deps.json
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.json
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.dev.json
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.pdb
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.pdb
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CopyComplete
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\appsettings.json
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\appsettings.json
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.blazor.config
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.exe
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.deps.json
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.json
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.dev.json
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.pdb
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.pdb
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csprojAssemblyReference.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CoreCompileInputs.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfoInputs.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfo.cs
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.RazorTargetAssemblyInfo.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CopyComplete
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.Manifest.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.xml
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.genruntimeconfig.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\appsettings.json
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.blazor.config
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.exe
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.deps.json
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.json
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.dev.json
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.pdb
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.pdb
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csprojAssemblyReference.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfoInputs.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfo.cs
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CoreCompileInputs.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.Manifest.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.xml
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\scopedcss\bundle\Blazor_Catalogo.Server.styles.css
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.RazorTargetAssemblyInfo.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CopyComplete
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.genruntimeconfig.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.blazor.config
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.exe
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.deps.json
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.json
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.dev.json
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.pdb
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.pdb
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.AssemblyReference.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfoInputs.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfo.cs
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CoreCompileInputs.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.Manifest.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.RazorTargetAssemblyInfo.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CopyComplete
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.genruntimeconfig.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\W8lessLabs.Blazor.LocalFiles.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.blazor.config
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.exe
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.deps.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.dev.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\W8lessLabs.Blazor.LocalFiles.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.AssemblyReference.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfoInputs.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfo.cs
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CoreCompileInputs.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.Manifest.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.RazorTargetAssemblyInfo.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CopyComplete
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.genruntimeconfig.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.blazor.config
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.exe
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.deps.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.dev.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\W8lessLabs.Blazor.LocalFiles.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.AssemblyReference.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfoInputs.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfo.cs
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CoreCompileInputs.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.Manifest.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.RazorTargetAssemblyInfo.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CopyComplete
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.genruntimeconfig.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.blazor.config
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.exe
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.deps.json
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.json
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.runtimeconfig.dev.json
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Blazor.Server.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Mdb.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Pdb.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.Rocks.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.Cecil.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Mono.WebAssembly.Interop.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\W8lessLabs.Blazor.LocalFiles.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Client.pdb
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\bin\Debug\netcoreapp3.0\Blazor_Catalogo.Shared.pdb
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.AssemblyReference.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfoInputs.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.AssemblyInfo.cs
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CoreCompileInputs.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\staticwebassets\Blazor_Catalogo.Server.StaticWebAssets.Manifest.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.RazorTargetAssemblyInfo.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.csproj.CopyComplete
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.pdb
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Server\obj\Debug\netcoreapp3.0\Blazor_Catalogo.Server.genruntimeconfig.cache

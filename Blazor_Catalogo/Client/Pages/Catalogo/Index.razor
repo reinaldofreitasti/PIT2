@@ -1,0 +1,91 @@
+﻿@page "/catalogo"
+@page "/catalogo/{CategoriaId:int}"
+@inject HttpClient http
+
+<div class="form-group">
+    <select @onchange="CategoriaSelectionChanged" class="form-control">
+        @if (categorias != null)
+        {
+            @foreach (var categoria in categorias)
+            {
+                <option value="@categoria.CategoriaId"
+                selected="@(categoria.CategoriaId == CategoriaId ? true: false)">
+                    @categoria.Nome
+                </option>
+            }
+        }
+    </select>
+</div>
+@if (produtos == null)
+{
+    <p><em>Carregando...</em></p>
+}
+else if (produtos.Count == 0)
+{
+    <p><em>Não existem produtos cadastrados...</em></p>
+}
+else
+{
+    <div class="row">
+        @foreach (var produto in produtos)
+        {
+            <div class="col-sm-3 col-lg-3 col-md-3">
+                <div class="card">
+                    <img src="data:image/jpge;base64,@produto.ImagemUrl" class="img-rounded"
+                 alt="@produto.Codigo" width="180" height="180" />
+                    <div class="card-body">
+                        <h4 class="card-title">@produto.Preco</h4>
+                        <h3 class="pull-right">@produto.Codigo</h3>
+                        <p class="card-text">@produto.Descricao</p>
+                        <a class="btn btn-primary" href="produto/detalhe/@produto.ProdutoId">Detalhes</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    List<Produto> produtos { get; set; }
+    List<Categoria> categorias { get; set; }
+    private int codigoCategoria;
+
+    [Parameter]
+    public int CategoriaId { get; set; }
+
+
+
+    protected override async Task OnParametersSetAsync()
+    {
+        categorias = await http.GetJsonAsync<List<Categoria>>("api/categoria/todas");
+        if (CategoriaId == 0)
+        {
+            codigoCategoria = categorias[0].CategoriaId;
+        }
+        else
+        {
+            codigoCategoria = CategoriaId;
+        }
+
+        await CarregaProdutos();
+    }
+
+
+    async Task CarregaProdutos()
+    {
+        produtos =
+          await http.GetJsonAsync<List<Produto>>($"/api/produto/categorias/{codigoCategoria}");
+
+        StateHasChanged();
+    }
+
+    async void CategoriaSelectionChanged(ChangeEventArgs e)
+    {
+        if (int.TryParse(e.Value.ToString(), out int id))
+        {
+            codigoCategoria = id;
+            await CarregaProdutos();
+        }
+    }
+
+}

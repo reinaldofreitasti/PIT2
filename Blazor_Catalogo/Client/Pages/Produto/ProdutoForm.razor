@@ -1,0 +1,106 @@
+﻿<EditForm Model="@Produto" OnValidSubmit="@OnValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <InputImagem Label="Imagem" ImagemSelecionada="ImagemSelecionada"
+                     ImagemRemota="@ImagemRemota">
+        </InputImagem>
+    </div>
+    <div class="form-group">
+        <label form="nome">Código: </label>
+        <div>
+            <InputText @bind-Value="Produto.Codigo" class="form-control" />
+            <ValidationMessage For="@(()=> Produto.Codigo)" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label form="descricao">Descrição: </label>
+        <div>
+            <InputTextArea @bind-Value="Produto.Descricao" class="form-control" />
+            <ValidationMessage For="@(()=> Produto.Descricao)" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label form="preco">Preço: </label>
+        <div>
+            <InputNumber @bind-Value="Produto.Preco" class="form-control" />
+            <ValidationMessage For="@(()=> Produto.Preco)" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label form="categoria">Categoria: </label>
+        <select @onchange="CategoriaSelectionChanged" class="form-control">
+            @if (categorias != null)
+            {
+                @foreach (var categoria in categorias)
+                {
+                    <option value="@categoria.CategoriaId"
+                    selected="@(categoria.CategoriaId == Produto.CategoriaId ? true : false)">
+                        @categoria.Nome
+                    </option>
+                }
+            }
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-success">
+        @ButtonTextSubmit
+    </button>
+    <button class="btn btn-danger"
+            @onclick="@(()=> navigation.NavigateTo("Produto"))">
+        @ButtonTextCancelar
+    </button>
+</EditForm>
+
+@code {
+
+    List<Categoria> categorias;
+
+    [Inject]
+    private NavigationManager navigation { get; set; }
+
+    [Inject]
+    private HttpClient http { get; set; }
+
+    [Parameter]
+    public Produto Produto { get; set; }
+
+    [Parameter]
+    public string ButtonTextSubmit { get; set; } = "Salvar";
+
+    [Parameter]
+    public string ButtonTextCancelar { get; set; } = "Cancelar";
+
+    [Parameter]
+    public EventCallback OnValidSubmit { get; set; }
+
+    [Parameter]
+    public string ImagemRemota { get; set; }
+
+    private void ImagemSelecionada(string imagemBase64)
+    {
+        Produto.ImagemUrl = imagemBase64;
+        ImagemRemota = null;
+        Produto.CategoriaId = categorias[0].CategoriaId;
+    }
+
+    protected async override Task OnInitializedAsync()
+    {
+        Produto.ImagemUrl = null;
+        await CarregaCategorias();
+    }
+
+    private async Task CarregaCategorias()
+    {
+        categorias = await http.GetJsonAsync<List<Categoria>>("api/categoria/todas");
+    }
+
+    void CategoriaSelectionChanged(ChangeEventArgs e)
+    {
+        if (int.TryParse(e.Value.ToString(), out int id))
+        {
+            Produto.CategoriaId = id;
+        }
+    }
+}

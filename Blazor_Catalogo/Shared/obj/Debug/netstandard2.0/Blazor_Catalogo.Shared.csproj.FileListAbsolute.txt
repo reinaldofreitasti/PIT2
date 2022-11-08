@@ -1,0 +1,66 @@
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.deps.json
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csprojAssemblyReference.cache
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfoInputs.cache
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfo.cs
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\_blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.deps.json
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csprojAssemblyReference.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.CoreCompileInputs.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfoInputs.cache
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfo.cs
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\___Cursos_Macoratti_VDA\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.deps.json
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csprojAssemblyReference.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfoInputs.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfo.cs
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.CoreCompileInputs.cache
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\_Cursos_Macoratti\Curso_Blazor_Essencial\6_Backend-HTTP\Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.deps.json
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.AssemblyReference.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfoInputs.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfo.cs
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\Users\gustavo_ti\Desktop\Blazor_Catalogo_Categorias\Blazor_Catalogo_Categorias\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.deps.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.AssemblyReference.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfoInputs.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfo.cs
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.deps.json
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.AssemblyReference.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfoInputs.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfo.cs
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+C:\Users\reina\OneDrive\Área de Trabalho\Blazor_Catalogo BKP\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.deps.json
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\bin\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.AssemblyReference.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfoInputs.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.AssemblyInfo.cs
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.csproj.CoreCompileInputs.cache
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.dll
+D:\Reinaldo\Faculdade - Ciência da Computação\202202\PIT2\Blazor\Blazor_Catalogo\Blazor_Catalogo\Shared\obj\Debug\netstandard2.0\Blazor_Catalogo.Shared.pdb

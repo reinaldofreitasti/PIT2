@@ -1,0 +1,34 @@
+﻿@page "/produto/create"
+@inject HttpClient  http
+@inject NavigationManager navigation
+@inject IJSRuntime js
+
+<h2>Novo Produto</h2>
+
+
+<ProdutoForm Produto="@produto" OnValidSubmit="CriarProduto" ButtonTextCancelar="Cancelar" ButtonTextSubmit="Salvar"> 
+
+</ProdutoForm>
+
+@code {
+
+    private Produto produto = new Produto();
+
+    async Task CriarProduto(){
+        await http.PostJsonAsync("api/produto", produto);
+        navigation.NavigateTo("produto");
+    }
+
+
+
+
+    //async Task Focus(string elementId){
+    //    await js.InvokeVoidAsync("focusById", elementId);
+    //}
+
+    //async Task CriarCategoria()
+    //{
+    //    await http.PostJsonAsync("api/categoria", categoria);
+    //    navigation.NavigateTo("categoria");
+    //}
+}

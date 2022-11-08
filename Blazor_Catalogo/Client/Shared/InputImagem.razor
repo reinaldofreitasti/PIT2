@@ -1,0 +1,69 @@
+﻿@using W8lessLabs.Blazor.LocalFiles
+<div>
+
+    <label>@Label</label>
+    <div>
+        <button type="button" @onclick="SelecionarImagem">Selecionar Imagem</button>
+        <FileSelect @ref="imagemSelecaoArquivo" Accept=".jpg,.jpeg,.png"></FileSelect>
+    </div>
+</div>
+
+<div>
+    @if(imagemBase64 != null)
+    {
+        <div>
+            <div style="margin:10px;">
+                <img src="data:image/jpeg;base64, @imagemBase64" style="width:150px;">
+            </div>
+        </div>
+    }
+
+    @if (ImagemRemota != null)
+    {
+        <div>
+            <div style="margin:10px;">
+                <img src="data:image/jpeg;base64, @ImagemRemota" style="width:150px;">
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter] public string Label { get; set; } = "Imagem";
+    [Parameter] public string ImagemRemota { get; set; }
+    [Parameter] public EventCallback<string> ImagemSelecionada { get; set; }
+
+    private string imagemBase64;
+    private FileSelect imagemSelecaoArquivo;
+
+
+    private void SelecionarImagem(){
+        imagemSelecaoArquivo.SelectFiles(ImagemArquivoSelecionado);
+    }
+
+    async Task ImagemArquivoSelecionado(SelectedFile[] arquivosSelecionados){
+
+        //seleciona um arquivo
+        var arquivoSelecionado = arquivosSelecionados.FirstOrDefault();   
+
+
+        //trata o arquivo selecionado
+        using (var fileReader = imagemSelecaoArquivo.GetFileReader(arquivoSelecionado)){
+
+            //converte imagem para um array de bytes
+            var imagesBytes = await fileReader.GetFileBytesAsync();
+
+            //converte imagem para o formato base 64
+            imagemBase64 = Convert.ToBase64String(imagesBytes);
+
+            //notificar o componente que uma nova imagem foi selecionada
+            await ImagemSelecionada.InvokeAsync(imagemBase64);
+
+            //remove imagem anterior no modo de edição
+            ImagemRemota = null;
+
+            //notifica o componente que o estado mudou (renderiza o componente)
+            StateHasChanged();
+        }
+    }
+}

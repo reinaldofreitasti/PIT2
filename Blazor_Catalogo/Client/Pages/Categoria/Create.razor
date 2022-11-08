@@ -1,0 +1,35 @@
+﻿@page "/categoria/create"
+@inject HttpClient  http
+@inject NavigationManager navigation
+@inject IJSRuntime js
+
+<h2>Nova Categoria</h2>
+
+<CategoriaForm Categoria="@categoria" OnValidSubmit="@CriarCategoria"
+                ButtonTextSubmit="Salvar" ButtonTextCancelar="Cancelar">
+
+</CategoriaForm>
+
+@code {
+
+    Categoria categoria = new Categoria();
+
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender){
+            await Focus("txtCategoriaNome");
+        }
+    }
+
+
+
+    async Task Focus(string elementId){
+        await js.InvokeVoidAsync("focusById", elementId);
+    }
+
+    async Task CriarCategoria()
+    {
+        await http.PostJsonAsync("api/categoria", categoria);
+        navigation.NavigateTo("categoria");
+    }
+}
